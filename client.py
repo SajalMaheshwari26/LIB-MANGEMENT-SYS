@@ -1,6 +1,9 @@
 import requests
-import json  # Add this line to import the 'json' module
+import json  
 
+# Just a demo client file where u can run ur POST, PUT etc. queries.
+# Just a demo client file where u can run ur POST, PUT etc. queries.
+# Just a demo client file where u can run ur POST, PUT etc. queries.
 
 new_book_data = {
     'title': 'The hell in the nightw ',
